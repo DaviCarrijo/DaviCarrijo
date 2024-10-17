@@ -22,6 +22,6 @@
  <a href="https://sketchfab.com/ArtCarrijo" target="_blank"><img src="https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white" target="_blank"></a>
  <a href="https://www.artstation.com/artcarrijo" target="_blank"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/DaviCarrijo/DaviCarrijo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DaviCarrijo/blob/output/github-contribution-grid-snake.svg)
 
 </div>
